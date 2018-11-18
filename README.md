@@ -1,0 +1,2 @@
+- Installed Flask framework using 'sudo pip3 install Flask'
+- Import Flask and os
