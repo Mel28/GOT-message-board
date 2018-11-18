@@ -1,2 +1,3 @@
 - Installed Flask framework using 'sudo pip3 install Flask'
-- Import Flask and os
+- Import Flask, os, render_template
+- created requirements.txt file using 'pip3 freeze --local > requirements.txt'
