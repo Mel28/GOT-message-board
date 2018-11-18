@@ -7,12 +7,16 @@
     <title>Game Of Thrones Season 9</title>
 </head>
 <body>
-   <nav><h1>Game Of Thrones Season 9 Discussion Board</h1></nav> 
-       <form method="POST">
-        <label for="username">Username:</label>
-        <input type="text" id="username" name="username">
-        <button>Go to chat!</button>
-    </form>
+   <h1>Welcome, {{ username }}</h1>
+    {% for message in chat_messages %}
+    <p>{{ message }}</p>
+    {% endfor %}
+
+    <script>
+        setTimeout(function() {
+            location.reload();
+        }, 5000);
+    </script>
 
 </body>
 </html>
