@@ -1,5 +1,5 @@
 - Installed Flask framework using 'sudo pip3 install Flask'
-- Import Flask, os, render_template
+- Import Flask, os, render_template, redirect
 - created requirements.txt file using 'pip3 freeze --local > requirements.txt'
 - Add ability to write to and read from a list and display the chat items
 - Added timestamp and user.txt file
