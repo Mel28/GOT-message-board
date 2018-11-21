@@ -7,3 +7,6 @@
 - Added chat.html, updated so that message board is updated every 5000 milliseconds
 - Created messages.txt file so messages on message board are saved and can be seen next time
 you load the chat.
+-used start bootstrap clean blog theme, downloaded files and added link to head of html
+- adappted bootstrap theme for my own use
+- App should be responsive and adapt to fit all devices
