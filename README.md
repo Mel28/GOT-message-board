@@ -17,4 +17,4 @@ you load the chat.
 <li> Created Procfile by entering 'echo web: python app.py > Procfile'</li>
 <li> Set scale with 'heroku ps:scale web=1' command</li>
 <li> Added config variables in heroku settings</li>
-<li> Deployed application successfully
+<li> Deployed application successfully to Heroku: https://got-season9-discussion-board.herokuapp.com/ </li>
